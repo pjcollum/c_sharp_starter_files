@@ -1,0 +1,10 @@
+/Users/codenation/Documents/week 9/c-sharp-encapsulation/bin/Debug/netcoreapp3.1/c-sharp-encapsulation.deps.json
+/Users/codenation/Documents/week 9/c-sharp-encapsulation/bin/Debug/netcoreapp3.1/c-sharp-encapsulation.runtimeconfig.json
+/Users/codenation/Documents/week 9/c-sharp-encapsulation/bin/Debug/netcoreapp3.1/c-sharp-encapsulation.runtimeconfig.dev.json
+/Users/codenation/Documents/week 9/c-sharp-encapsulation/bin/Debug/netcoreapp3.1/c-sharp-encapsulation.dll
+/Users/codenation/Documents/week 9/c-sharp-encapsulation/bin/Debug/netcoreapp3.1/c-sharp-encapsulation.pdb
+/Users/codenation/Documents/week 9/c-sharp-encapsulation/obj/Debug/netcoreapp3.1/c-sharp-encapsulation.csprojAssemblyReference.cache
+/Users/codenation/Documents/week 9/c-sharp-encapsulation/obj/Debug/netcoreapp3.1/c-sharp-encapsulation.AssemblyInfoInputs.cache
+/Users/codenation/Documents/week 9/c-sharp-encapsulation/obj/Debug/netcoreapp3.1/c-sharp-encapsulation.AssemblyInfo.cs
+/Users/codenation/Documents/week 9/c-sharp-encapsulation/obj/Debug/netcoreapp3.1/c-sharp-encapsulation.dll
+/Users/codenation/Documents/week 9/c-sharp-encapsulation/obj/Debug/netcoreapp3.1/c-sharp-encapsulation.pdb
